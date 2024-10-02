@@ -3,5 +3,5 @@
 - 💬 Ask me anything about PC Hardware
 - 📫 How to reach me: gcmilana013@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a djenster
+- ⚡ Fun fact: I'm a djentster
 
