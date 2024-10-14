@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on a Django Project
-- 🌱 I’m currently learning Artifical Intelligence
+- 🌱 I’m currently learning AI
 - 💬 Ask me anything about PC Hardware
 - 📫 How to reach me: gcmilana013@gmail.com
