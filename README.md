@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a Django Project
-- 🌱 I’m currently learning AI
-- 💬 Ask me anything about PC's
+- 🔭 I’m definitely working on a Capstone Project
+- 🌱 I’m currently learning what to do in my life
+- 💬 Ask me anything about PC build!
 - 📫 How to reach me: gcmilana013@gmail.com
