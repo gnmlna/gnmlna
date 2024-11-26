@@ -1,4 +1,4 @@
-- 🔭 I’m definitely working on a Capstone Project
-- 🌱 I’m currently learning what to do in my life
-- 💬 Ask me anything about PC build!
+- 🔭 I’m currently working on a Capstone Project
+- 🌱 I’m currently learning what to do in life
+- 💬 Ask me anything about PC!
 - 📫 How to reach me: gcmilana013@gmail.com
